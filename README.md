@@ -1,7 +1,5 @@
 ## 💬 Suffler Engine
 
-![sufflerengine](sufflerlogo.png)
-
 
 ![stars](https://img.shields.io/github/stars/sufflerengine/SufflerEngine)
 ![license](https://img.shields.io/github/license/sufflerengine/SufflerEngine)
