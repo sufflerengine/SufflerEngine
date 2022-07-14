@@ -90,3 +90,25 @@ It's not new to anyone that one of the best ways to play electronic games is by 
 ![Sony - PSP](https://img.shields.io/badge/Sony-PSP-654fff?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
 ![Sony - PSVITA](https://img.shields.io/badge/Sony-PSVITA-654f43?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
 ![ANDROID - X](https://img.shields.io/badge/ANDROID-X-ff11ff?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+
+## 🌏 Supported type files
+
+One of the best things about this game engine, is that it supports different types of files, files described below:
+- ✅ **Supported:** .gba, .iso, .slg (own file extension)...
+- ❌ **Not Supported:** .gml, .zip, .rar...
+
+## 🚧 Emulators
+
+- [x] **Game Boy Advanced .gba**
+- [x] **PPSSPP .iso**
+- [x] **Emulators .gba**
+
+## 📍 Contact
+Discord: iy#6285
+
+You can also contact us through our [gmail](@ffenizk)!
+
+[![GMAIL - X](https://img.shields.io/badge/GMAIL-X-ff1f11?style=for-the-badge)](https://email.com/ffenizk)
+
+## 💰 Donate 
+Soon...
