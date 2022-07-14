@@ -14,3 +14,34 @@ https://www.opengl.org
 **Box2D** is a free open source 2-dimensional physics simulator engine.
 https://box2d.org
 
+## Features
+- [x] Scene management
+- [x] GameObject management
+- [x] Font
+- [x] Textures and particles
+- [x] Audio
+- [x] UI
+- [ ] Physics
+- [ ] Editor
+
+## Game Class Info
+```java
+/** 
+* This Class contains all informations of the game. */
+
+public class GameInfo {
+  
+  private int width, height;
+  
+  private String title;
+  
+  private long timeCreated;
+  
+    // Initializing the info of the game
+    public void initGameInfo(int width, int height, String title) {
+        this.width = width;
+        this.height = height;
+        this.title = title;
+    }
+}
+```
