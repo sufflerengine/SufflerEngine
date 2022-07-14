@@ -9,24 +9,37 @@ Currently being developed at Eclipse, and Visual Studio Code.
                   
 **Eclipse**: https://www.eclipse.org
 
-## Frameworks
+## :video_game: Main Features
+
+* Basic Game Infrastructure (GameLoop, Configuration, Resource Management, Logging, ...)
+* 2D Render Engine (GUI Components, Spritesheet Animations, Ambient Lighting, Particle System, ...)
+* 2D Sound Engine (support for .wav, .mp3 and .ogg)
+* 2D Physics Engine
+* Support for Tile Maps in .tmx format (e.g. made with [Tiled Editor](http://www.mapeditor.org/))
+* Player Input via Gamepad/Keyboard/Mouse
+* Entity Framework
+
+
+
+## :elephant: Frameworks
 **OpenGL**, OpenGL (Open Graphics Library) is a free API used in computer graphics, for the development of graphics applications, 3D environments, games, among others. Like Direct3D or Glide, it is an API (Application Programming Interface), a term used to classify a library of specific functions made available for the creation and development of applications.
 https://www.opengl.org
 
 **Box2D** is a free open source 2-dimensional physics simulator engine.
 https://box2d.org
 
-## Features
-- [x] Scene management
-- [x] GameObject management
-- [x] Font
+## ➕ Features 
+- [x] Scene management (Game Scene, Map Scene...)
+- [x] GameObject management 
+- [x] Font 
 - [x] Textures and particles
 - [x] Audio
 - [x] UI
 - [ ] Physics
 - [ ] Editor
+- [ ] Shapes
 
-## Game Class Info
+## :coffee: GameInfo Class
 ```java
 /** 
 * This Class contains all informations of the game. */
