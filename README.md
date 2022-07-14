@@ -2,8 +2,11 @@
 
 ![sufflerengine](sufflerlogo.png)
 
-Suffler Game Engine is an engine created in java using free frameworks over the internet.
+![discord](https://img.shields.io/badge/Discord-Join-green)
+
+Suffler Game Engine is an engine created in java using OpenGL to Graphics.
 Currently being developed at Eclipse, and Visual Studio Code.
+
 
 **Visual Studio Code**: https://code.visualstudio.com
                   
