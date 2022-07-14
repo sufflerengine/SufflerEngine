@@ -68,3 +68,25 @@ public class GameInfo {
     }
 }
 ```
+## :video_game: Gamepad Integration
+
+It's not new to anyone that one of the best ways to play electronic games is by using a Controller/Gamepad, and thinking about it we made a great update that was the implementation that supports video game controls.
+
+* Here is a list of controls/gamepads that can be used.
+- [x] PS2 (Sony)
+- [x] Ipega (All versions)
+- [x] DualShock 
+
+* List of controls/gamepads that are under development for support.
+- :video_game: Logitech 
+- :video_game: PS3
+
+## Supported Platforms
+
+![Nintendo - Switch](https://img.shields.io/badge/Nintendo-Switch-2ea44f?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+![Windows - 10](https://img.shields.io/badge/Windows-10-000fff?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+![Linux - X](https://img.shields.io/badge/Linux-X-fff000?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+![Mac - OS](https://img.shields.io/badge/Mac-OS-5fff44?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+![Sony - PSP](https://img.shields.io/badge/Sony-PSP-654fff?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+![Sony - PSVITA](https://img.shields.io/badge/Sony-PSVITA-654f43?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
+![ANDROID - X](https://img.shields.io/badge/ANDROID-X-ff11ff?style=for-the-badge&logo=https%3A%2F%2Fimgur.com%2Fgallery%2F4WbTn)
